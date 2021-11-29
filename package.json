@@ -1,0 +1,16 @@
+{
+  "name": "icode-daily-create-react-app",
+  "version": "0.0.1",
+  "description": "Custom Create React App ",
+  "main": "index.js",
+  "author": "Sirajuddeen G",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "colors": "^1.4.0",
+    "shelljs": "^0.8.4"
+  },
+  "bin": {
+    "icode-daily-create-react-app": "index.js"
+  }
+}
